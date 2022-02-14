@@ -1,0 +1,16 @@
+body{
+    margin:20px 0px;
+    padding:0px;
+}
+h1, p{
+    text-align: center;
+}
+
+.datos-rover{
+    text-align: center;
+}
+
+body{
+    font-family: 'Days One', sans-serif;
+    background-color:darkgray;
+}
